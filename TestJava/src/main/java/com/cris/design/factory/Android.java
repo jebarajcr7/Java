@@ -12,7 +12,7 @@ public class Android implements OS{
 
     @Override
     public void print() {
-        System.out.println("I'm Android OS");
+        System.out.println("I'm Android ");
     }
     
 }
